@@ -1,0 +1,19 @@
+/* pages/index/index.wxss */
+.page{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.topBar{
+  height: 100rpx;
+  background-color: yellow;
+}
+.body{
+  height: 80%;
+  background-color: black;
+}
+
+.bottom{
+  height: 200rpx;
+  background-color: red;
+}

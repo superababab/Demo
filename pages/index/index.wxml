@@ -1,0 +1,6 @@
+<!--pages/index/index.wxml-->
+<view class="page">
+</view>
+<view class="topBar"></view>
+<view class="body"></view>
+<view class="bottom"></view>
